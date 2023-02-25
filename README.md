@@ -1,5 +1,5 @@
 # maze
-Game project as part of Intro to Java course (9th grade)
+Maze Game - Final project in Introduction to Java course (9th grade)
 - timed maze that changes as player goes through it
 - player uses the changing maze to reach targets and avoid obstacles (bombs)
 - player can "pick up" bomb and place it to explode walls and open up new pathways in maze
